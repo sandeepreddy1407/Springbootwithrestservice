@@ -1,0 +1,11 @@
+.idea
+.idea/*.xml
+*/target
+*/node
+*/node_modules
+*/dist
+api/logsKiss
+logsKiss
+api/logsKiss/*
+*.iml
+settings.xml
